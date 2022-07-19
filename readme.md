@@ -1,0 +1,1 @@
+## Yazılan Sayı Kadar Satıra Sahip Ve Girilen Sembolle Elmas Şekli Oluşturan Program.
